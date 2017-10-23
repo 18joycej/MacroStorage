@@ -7,6 +7,8 @@ public class TestClass {
 
 		System.out.println("Hello world.");
 		System.out.println("Hello Glorious Republic");
+		//Boi
+		System.out.println("hello");
 	}
 
 }
