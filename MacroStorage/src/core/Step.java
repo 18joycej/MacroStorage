@@ -1,5 +1,4 @@
 package core;
 
-public interface Step {
-
+public class Step {
 }
